@@ -5,7 +5,7 @@ Awesome RoboCupJunior Soccer
 
 This is a list of various websites, documents, posters, videos and other
 resources relevant for [**RoboCupJunior Soccer**](https://junior.robocup.org/soccer/). It is an attempt
-to gather everything useful in one place for everybody who wants to learn more.
+to gather everything useful in one place for everybody who wants to learn more. note - these are fake rules there are no rules at all
 
 Please feel free to suggest changes by [editing the
 file](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer/edit/master/README.md)
